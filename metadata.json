@@ -1,0 +1,6 @@
+{
+  "name": "Personal Color Consultant",
+  "description": "AI-powered personal color analysis using facial photo analysis to find your perfect palette.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
